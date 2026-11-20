@@ -1,2 +1,2 @@
 # booking_flight_tickets
-It is my Oop's first sem project
+It is my first project
